@@ -1,10 +1,10 @@
-Hey there! 👋🚀 I'm an AI enthusiast with a passion for computer vision, cybersecurity, and cloud computing. I love building and optimizing real-time object detection systems (YOLOv5, YOLOv8) while ensuring performance, security, and scalability.
+Hey there! 👋🚀 I'm an AI enthusiast with a passion for computer vision, cybersecurity, and cloud computing. I love building and optimizing real-time object detection systems (YOLOv3, YOLOv4) while ensuring performance, security, and scalability.
 
 💡 What I Love Working On:
 🔹 Deep Learning & AI – Training and optimizing models for speed & accuracy ⚡
 🔹 Computer Vision – Real-time detection, tracking, and analysis 📷
 🔹 Cybersecurity – Securing AI models & exploring adversarial robustness 🔐
-🔹 Cloud Computing – Deploying AI solutions at scale ☁️
+🔹 Cloud Computing – Deploying AI solutions and scaling ☁️
 
 📌 What You’ll Find in My Repos:
 ✅ Real-time YOLO-based object detection projects 🚀
