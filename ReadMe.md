@@ -15,8 +15,6 @@ Hey there! 👋🚀 I'm an AI enthusiast with a passion for computer vision, cyb
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Saiyatishk2k1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Saiyatishk2k1&icon=4&color=6)](https://visitcount.itsvg.in)
