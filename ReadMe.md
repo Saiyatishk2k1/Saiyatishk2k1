@@ -84,19 +84,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Saiyatishk2k1/Saiyatishk2k1/output/pacman-contribution-graph.svg">
 </picture>
 
-<h3 align="left">🔥 My Stats :</h3>
-
-###
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Saiyatishk2k1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph" />
- <img src="https://github-profile-trophy.vercel.app?username=Saiyatishk2k1&theme=radical" height="150" alt="trophy graph" />
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saiyatishk2k1&" height="150" alt="activity-graph graph" />
-</div>
-
-###
-
-
 
 <img src="https://raw.githubusercontent.com/Saiyatishk2k1/Saiyatishk2k1/output/snake.svg" alt="Snake animation" />
 
